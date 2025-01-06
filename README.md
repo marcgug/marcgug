@@ -1,5 +1,5 @@
 ## Hello, I'm Marc Gugliuzza 👋🏻
-I'm a software developer and entrepreneur who co-founded [Material Retail](https://materialretail.com). I'm currently working on our Point of Sale app, which is built in Swift and Node.js. 
+I'm a software developer and entrepreneur who co-founded [Material Retail](https://materialretail.com). I'm currently working on our Point of Sale app, which is used by hundreds of retailers across the US for in-store and online transactions.
 
 If you are a Swift or Node.js devloper who is passionate about helping independent retailers suceed, get in touch.
 
