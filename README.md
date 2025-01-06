@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello, I'm Marc Gugliuzza 👋🏻
+I'm a software developer and entrepreneur who co-founded [Material Retail](https://materialretail.com). I'm currently working on our Point of Sale app, which is built in Swift and Node.js. 
 
+If you are a Swift or Node.js devloper who is passionate about helping independent retailers suceed, get in touch.
+
+### Follow me
+* [Blog](https://marc.gugliuzza.com)
+* [X](https://x.com/marcgug)
+* [Linkedin](https://linkedin.com/in/mgugliuzza)
+  
 <!--
 **marcgug/marcgug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
